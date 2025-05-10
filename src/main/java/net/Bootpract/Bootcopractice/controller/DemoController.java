@@ -9,21 +9,21 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class DemoController {
-////    @GetMapping("/kill")
-////    public  String Hi(){
-////        return "Hello";
-////    }
+//    @GetMapping("/kill")
+//    public  String Hi(){
+//        return "Hello";
+//    }
 //private Employee e;
 //    private AccentureEmp ae;
 //    private Tcsemployee tcs;
 //    private TechMahindra tm;
-////    @Autowired
-////public DemoController(AccentureEmp ae){
-////    this.ae=ae;
-////@Autowired
-////    public void set(AccentureEmp ae){
-////        this.ae=ae;
-////}
+//    @Autowired
+//public DemoController(AccentureEmp ae){
+//    this.ae=ae;
+//@Autowired
+//    public void set(AccentureEmp ae){
+//        this.ae=ae;
+//}
 //    @Autowired
 //public void set(Employee e){
 //    this.e=e;
